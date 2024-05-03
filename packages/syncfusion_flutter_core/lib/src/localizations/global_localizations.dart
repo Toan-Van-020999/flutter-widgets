@@ -714,19 +714,19 @@ class _DefaultLocalizations implements SfLocalizations {
   String get pdfScrollStatusOfLabel => 'of';
 
   @override
-  String get pdfGoToPageLabel => 'Go to page';
+  String get pdfGoToPageLabel => 'Đi tới trang';
 
   @override
-  String get pdfEnterPageNumberLabel => 'Enter page number';
+  String get pdfEnterPageNumberLabel => 'Nhập số trang';
 
   @override
   String get pdfInvalidPageNumberLabel => 'Please enter a valid number';
 
   @override
-  String get pdfPaginationDialogOkLabel => 'OK';
+  String get pdfPaginationDialogOkLabel => 'Đồng ý';
 
   @override
-  String get pdfPaginationDialogCancelLabel => 'CANCEL';
+  String get pdfPaginationDialogCancelLabel => 'Hủy';
 
   @override
   String get pdfHyperlinkLabel => 'Open Web Page';
